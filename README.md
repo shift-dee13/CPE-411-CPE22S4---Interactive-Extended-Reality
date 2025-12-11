@@ -11,7 +11,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://tse3.mm.bing.net/th/id/OIP.0NYg7tp9UkK9YS59MjbaLQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"  />
 </div>
 
